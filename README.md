@@ -52,7 +52,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
-<p align="center">
+<p>
 🔱 &nbsp;My Projects &nbsp;
 </p>
 
