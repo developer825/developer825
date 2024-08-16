@@ -7,7 +7,7 @@
 
 ## Senior Full stack(Django) && Blockchain Developer
 
--@- The joy of client is my joy.-@-
+❤️ The joy of client is my joy.❤️
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
 7+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
