@@ -59,7 +59,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <div>
 
   
- <a href="https://kira222.com">🌟 Crypto Casino website</a> 
+ <a href="https://kira222.com">🌟 Crypto Casino website</a> <br>
  <a href="https://1win.com">🌟 Crypto Casino website</a> 
 
 </div>
