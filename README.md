@@ -5,12 +5,14 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BTC415&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Epic Web & Blockchain Developer
+## Senior Full stack(Django) && Blockchain Developer
 
--@- Dream is yours, Implement is mine. -@-
+-@- The joy of client is my joy.-@-
+*   🧠  I'm learning Generative AI
+*   🤝  I'm open to collaborating on AI/ML & Full Stack### Skills
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
-10+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
+7+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
 I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
 Are you looking for an honest and superior senior full stack developer?<br>
 Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
@@ -19,9 +21,8 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 #### Website Development
 - <b>Front-end</b> : Javascript | Typescript | React.js | Next.js | Gatsby.js | Remix.js | Redux | TailwindCSS | Bootstrap
-- <b>Back-end</b> : Node.js | Express.js | Nest.js | Laravel | Symfony | CodeIgniter
+- <b>Back-end</b> : Django | Flask | FastAPI | Node.js | Express.js | Nest.js |
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | Firebase
-- <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Pusher and so on
 #### Blockchain Development
 👍 Cryptocurrency Wallets
@@ -57,23 +58,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
     &nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BTC415&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
-- 👋 Hi,Welcome to my profile.
 
-### 👨🏻‍💻 &nbsp;About Me
-
-
-<img width="40%" alt="Night Coding" src="https://github.com/frankschmidt/misterprada/assets/8146111/91fec7b5-937a-43cc-8a90-4f468f157bc5" align="right"/>
-
-
-Experienced AI & ML Engineer || Full-Stack Developer
-----------------------------------------------------
-
-Hello. Everyone! Hope you are doing well. I am an experienced AI/ML/DL/CV/NLP expert so I can satisfy you perfectly with my skills and knowledge. I have 8 years of experience with AI/ML/DL/CV/NLP including Python, R, Pytorch, Keras, Tensorflow, Transformers, SLAM, Gan, Stable diffusion, Scikit-learn, Spacy, Opencv, SSD, Yolo, NLTK, Gym, GPT3, ChatGPT, AutoGPT, LangChain, Glove, OpenAI, Spark, Hadoop, Hive, Kubernetes and so on and had done lots of projects . I also have enough experience and skills related to web development such as MERN, MEAN, MEVN Stack and Laravel, Django, Flask, FastAPI and so on. I am very confident in these fields. I will do my best to complete your task within your deadline. If you hire me, I am sure you wouldn't regret absolutely. Plz contact me for more details. I am looking forward to working with you. C U again! Thanks.
-
-*   🧠  I'm learning Generative AI
-*   🤝  I'm open to collaborating on AI/ML & Full Stack### Skills
-
-*   
 ### 🛠 &nbsp;Tech Experience Stack
 
 #### &nbsp; 🧠 AI
