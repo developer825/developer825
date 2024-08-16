@@ -56,9 +56,9 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 🔱 &nbsp;My Projects &nbsp;
 </p>
 
-<div align="center">
+<div>
 
   
-  | <a href="https://kira222.com">Live + Code</a> |
+ <a href="https://kira222.com">Live + Code</a> 
 
 </div>
