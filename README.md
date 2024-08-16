@@ -53,12 +53,13 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 
 <p>
-🔱 &nbsp;My Projects &nbsp;
+🔱 &nbsp;My Projects(Live + Code) &nbsp;
 </p>
 
 <div>
 
   
- <a href="https://kira222.com">Live + Code</a> 
+ <a href="https://kira222.com">🌟 Crypto Casino website</a> 
+ <a href="https://1win.com">🌟 Crypto Casino website</a> 
 
 </div>
