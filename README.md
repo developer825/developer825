@@ -58,8 +58,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 <div align="center">
 
-  | <img alt="Hell Portal Shader" src="https://github.com/MisterPrada/misterprada/assets/8146111/e4164d68-259b-4a68-a98c-dea8392091cf"  />
-  |:-----:|
+  
   | <a href="https://kira222.com">Live + Code</a> |
 
 </div>
