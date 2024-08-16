@@ -7,11 +7,11 @@
 
 ## Senior Full stack(Django) && Blockchain Developer
 
-❤️ The future of Django && Blockchain looks bright with ongoing innovations in Business development. ❤️ <br><br><br>
+🔥🔥🔥 The future of Django && Blockchain looks bright with ongoing innovations in Business development. 🔥🔥🔥 <br><br><br>
 It’s expected that it would proceed to further steps in support for asynchronous programming, microservices architecture, serverless computing, machine learning integration, improved security features, better developer experience and integration with WebAssembly, GraphQL and WebSockets among other emerging technologies.<br>
 These developments intend to make Django more efficient, secure and adaptable to the needs of modern web applications.
 <p style = "margin-left: 30px">
-Deep understanding of Mathematics and programming algorithm.<br>
+💻 Deep understanding of Mathematics and programming algorithm.<br>
 7+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
 I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
 Are you looking for an honest and superior senior full stack developer?<br>
