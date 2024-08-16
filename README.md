@@ -60,26 +60,13 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 </p>
 
 <p align="center">
-🔱 &nbsp;Pet Projects &nbsp;
+🔱 &nbsp;My Projects &nbsp;
 </p>
-
-| <img alt="Portal" src="https://github.com/MisterPrada/misterprada/assets/8146111/eb445650-c662-412f-8cf5-662b76c27057"  /> | <img alt="Galaxy" src="https://github.com/MisterPrada/misterprada/assets/8146111/64cf718c-e1ae-44a6-bd6c-69ca2b55ac11"  /> | <img alt="Itachi" src="https://github.com/MisterPrada/misterprada/assets/8146111/445f5d11-b672-46f5-a0dd-7635b4787efc"  /> |
-|:-----:|:---------:|:------:|
-| <a href="https://portal.misterprada.com">Portal Live</a> |  <a href="https://misterprada.com">Galaxy Live</a>    | <a href="https://itachi.misterprada.com">Itachi Live</a> |
-
-
-<div align="center">
-
-  | <img alt="Predator" width="77%" src="https://github.com/MisterPrada/misterprada/assets/8146111/e4021b6c-28e3-4f21-8227-1f9617a17945"  /> | <img alt="Sound Orb" src="https://github.com/MisterPrada/misterprada/assets/8146111/68821637-ccd9-480f-bb76-5834c3a8586d"  /> | <img alt="Strokes" src="https://github.com/MisterPrada/misterprada/assets/8146111/e0c31048-9ef4-4523-bf08-3966cb8001d0"  /> |
-  |:-----:|:------:|:-----:|
-  | <a href="https://predator.misterprada.com">Predator Live</a> | <a href="https://orb.misterprada.com">Orb Live</a> | <a href="https://strokes.misterprada.com">Strokes Live</a> |
-
-</div>
 
 <div align="center">
 
   | <img alt="Hell Portal Shader" src="https://github.com/MisterPrada/misterprada/assets/8146111/e4164d68-259b-4a68-a98c-dea8392091cf"  />
   |:-----:|
-  | <a href="https://www.shadertoy.com/view/cdVyWG">Live + Code</a> |
+  | <a href="https://1win.com/view/cdVyWG">Live + Code</a> |
 
 </div>
