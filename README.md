@@ -1,15 +1,6 @@
-<p align="center">
-    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-</p>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=BTC415&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
-</p>
-
 ## Senior Full stack(Django) && Blockchain Developer
 
 -@- The joy of client is my joy.-@-
-*   🧠  I'm learning Generative AI
-*   🤝  I'm open to collaborating on AI/ML & Full Stack### Skills
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
 7+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
