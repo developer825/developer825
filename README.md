@@ -7,8 +7,8 @@
 
 ## Senior Full stack(Django) && Blockchain Developer
 
-❤️ The future of Django looks bright with ongoing innovations in web development. ❤️
-It’s expected that it would proceed to further steps in support for asynchronous programming, microservices architecture, serverless computing, machine learning integration, improved security features, better developer experience and integration with WebAssembly, GraphQL and WebSockets among other emerging technologies.
+❤️ The future of Django && Blockchain looks bright with ongoing innovations in web development. ❤️ <br>
+It’s expected that it would proceed to further steps in support for asynchronous programming, microservices architecture, serverless computing, machine learning integration, improved security features, better developer experience and integration with WebAssembly, GraphQL and WebSockets among other emerging technologies.<br>
 These developments intend to make Django more efficient, secure and adaptable to the needs of modern web applications.
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
