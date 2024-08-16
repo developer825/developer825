@@ -23,14 +23,14 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | Firebase
 - <b>Amazon Web Services </b> (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Pusher and so on
 #### Blockchain Development
-👍 Cryptocurrency Wallets
-👍 Non-Custodial Wallets
-👍 NFT Minting Engines
-👍 Smart Contracts
-👍 NFT Websites
-👍 DeFi Solutions
-👍 dApp Development
-👍 NFT Marketplace Management
+👍 Cryptocurrency Wallets <br>
+👍 Non-Custodial Wallets<br>
+👍 NFT Minting Engines<br>
+👍 Smart Contracts<br>
+👍 NFT Websites<br>
+👍 DeFi Solutions<br>
+👍 dApp Development<br>
+👍 NFT Marketplace Management<br>
 
 ### Skills and Tools:
 
