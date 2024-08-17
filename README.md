@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BTC415&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Senior Full stack(Django) && Blockchain Developer
+## Senior Full stack(Django) && Blockchain expert
 
 🔥🔥🔥 The future of Django && Blockchain looks bright with ongoing innovations in Business development. 🔥🔥🔥 <br><br>
 It’s expected that it would proceed to further steps in support for asynchronous programming, microservices architecture, serverless computing, machine learning integration, improved security features, better developer experience and integration with WebAssembly, GraphQL and WebSockets among other emerging technologies.<br>
