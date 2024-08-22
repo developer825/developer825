@@ -8,7 +8,6 @@
 ## Senior Full stack(Django) && Blockchain expert
 
 🔥🔥🔥 The future of Blockchain looks bright with ongoing innovations in Business development. 🔥🔥🔥 <br><br>
-<p style = "margin-left: 30px">
 💻 Deep understanding of Mathematics and programming algorithm.<br>
 7+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
 I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
