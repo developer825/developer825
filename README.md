@@ -21,15 +21,11 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>Front-end</b> : Javascript | Typescript | React.js | Next.js | Gatsby.js | Remix.js | Redux | TailwindCSS | Bootstrap | web3.js 
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | Firebase
 - <b>Amazon Web Services </b> (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Pusher and so on
-#### Blockchain Development
-👍 Cryptocurrency Wallets <br>
-👍 Non-Custodial Wallets<br>
-👍 NFT Minting Engines<br>
-👍 Smart Contracts<br>
-👍 NFT Websites<br>
-👍 DeFi Solutions<br>
-👍 dApp Development<br>
-👍 NFT Marketplace Management<br>
+#### AI Development
+
+👍 Machine Learning model development <br>
+👍 AI-Sales Marketing Platform development<br>
+👍 Chatbot development<br>
 
 ### Skills and Tools:
 
@@ -57,11 +53,9 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 <div>
 
-  
+ <a href="https://presbot.com">🌟 AI-Sales Marketing platform(Ongoing) 🌟</a><br> 
+ <a href="https://presbot.com">🌟 Chatbot SAAS platform 🌟</a><br> 
  <a href="https://kira222.com">🌟 Crypto Casino website 🌟</a> <br>
-  <a href="https://metablock.trade/">🌟 DeFi platform 🌟</a> <br>
- <a href="https://1win.com">🌟 Crypto Casino website 🌟</a> <br>
- <a href="#">🌟 EmotionSEO AI website 🌟</a><br>
  <a href="https://saleor.io">🌟 Ecommerce platform 🌟</a><br>
  <a href="https://healthchecks.io">🌟 A cron job monitoring service 🌟</a><br>
  <a href="https://presbot.com">🌟 Chatbot SAAS platform 🌟</a><br>
