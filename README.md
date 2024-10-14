@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BTC415&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Senior Full stack(Django) && Blockchain expert
+## Full stack(Django) && AI expert
 
 🔥🔥🔥 Django and AI is one part of my life. 🔥🔥🔥 <br><br>
 💻 Deep understanding of Mathematics and programming algorithm.<br>
