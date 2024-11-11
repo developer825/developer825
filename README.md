@@ -1,7 +1,7 @@
 
-## Full stack(Django) && AI expert
+## Django, Web Scraping, Automation && AI expert
 
-🔥🔥🔥 Django and AI is one part of my life. 🔥🔥🔥 <br><br>
+🔥🔥🔥 My career goal is to make the client's idea real.🔥🔥🔥 <br><br>
 💻 Deep understanding of Mathematics and programming algorithm.<br>
 5+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
 I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
@@ -15,6 +15,16 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>Front-end</b> : Javascript | Typescript | React.js | Next.js | Gatsby.js | Remix.js | Redux | TailwindCSS | Bootstrap | web3.js 
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | Firebase
 - <b>Amazon Web Services </b> (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Pusher and so on
+#### Scraping tech
+- <b>Data Scraping</b>
+- <b>Web Scraping Scripts</b>
+- <b>Data Extraction</b>
+- <b>PDF Scraping</b>
+- <b>Real Estat Website Scraping</b>
+- <b>Social Media Scraping</b>
+- <b>E-commerce Scraping</b>
+- <b>Directories scraping</b>
+
 #### AI Development
 
 👍 Machine Learning model development <br>
