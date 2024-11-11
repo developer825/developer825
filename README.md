@@ -20,7 +20,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>Web Scraping Scripts</b>
 - <b>Data Extraction</b>
 - <b>PDF Scraping</b>
-- <b>Real Estat Website Scraping</b>
+- <b>Real Estate Website Scraping</b>
 - <b>Social Media Scraping</b>
 - <b>E-commerce Scraping</b>
 - <b>Directories scraping</b>
